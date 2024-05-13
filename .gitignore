@@ -1,0 +1,4 @@
+data/
+/data/additional_train/*
+/data/rotten_tomatoes/*
+/data/tmdb-box-office-prediction/*
