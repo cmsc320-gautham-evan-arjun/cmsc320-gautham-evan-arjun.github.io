@@ -3,3 +3,5 @@ As we can see from these examples, being able to accurately predict the total bo
 However, the challenge that comes with predicting box office revenue is that large amount of factors that can effect how successful a movie is, such as budget, critics ratings (ex. rotten tomatoes ratings), release dates, genre, runtime, production companies, etc. In our tutorial, we have collected data on these various factors to train machine learning models to predict a given movie's box office revenue on several diffrent models.
 
 Our project will cover our process for data collection, data cleaning and processing, as well as visualizations of correlations and trends in the data. Finally the last two sections of our project will cover our prediction models themselves as well as the conclusions that we drew from said models.
+
+To view our project, please use the following link: https://cmsc320-gautham-evan-arjun.github.io/ (deployed via GitHub Pages).
