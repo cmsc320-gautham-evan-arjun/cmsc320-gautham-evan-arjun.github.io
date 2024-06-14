@@ -1,4 +1,4 @@
-# Movie Box Office Prediction
+# Movie Box Office Revenue Prediction
 
 
 This project aims to leverage the entire data science lifecycle to effectively understand trends in movie box office revenues and predict box office revenues using various machine learning techniques. Successful movies generate millions and even billions of dollars in revenue. For instance, some of the highest grossing movies for box office revenue like Avengers: Endgame, Avatar, and the Titanic achieved lifetime box office gross revenues of $2799439100, $2923706026, and $2264750694 respectively. 
